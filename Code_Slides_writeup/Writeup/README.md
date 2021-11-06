@@ -1,4 +1,4 @@
-# Luxury Used Cars Price Prediction 
+# Animal Shelter
 ## Abstract
 A non-profit organization is sponsoring an animal shelter that is struggling with the decline of the adoption rate. Studying the features that make animals more likely to get adopted and paying attention to features that make animals stay longer in the shelter and find solutions to help them find a new home.
 
