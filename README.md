@@ -14,14 +14,14 @@ Open the notebook in jupyter notebook to view the code and technical details, or
 
 
 # Results Summery  
-We found that there are 3 features which affect the price, which are:  
+We found that there are 3 features which affect the addoption of animals, which are:  
 1- Name- Potintal owners can easly form an emotional bond with animals that has names.  
 2- Neutered/Spayed- Potintal owners prefere neutered/spayed animals over the intacts ones.  
 3- Age- Younger animals are seen as cute and desirable by potintal owners.  
 
 
 # Acknowledgment  
-I would like to thank my teammates [Rashed AlHilal](https://github.com/R3Z96), and [Amena AlSamah](https://github.com/Amena-ss) for their amazing work and support.
+I would like to thank my teammates [Amena AlSamah](https://github.com/Amena-ss), and [Rashed AlHilal](https://github.com/R3Z96) for their amazing work and support.
 And a special thanks for [Kaggle](https://www.kaggle.com/c/shelter-animal-outcomes) for providing quality datasets for free.
 
 # Team Memebers
